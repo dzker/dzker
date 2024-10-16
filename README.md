@@ -24,15 +24,15 @@ I'm a passionate **Software Engineering student**, currently in my final year, w
 
 ### [Project 1: CarService using MERN Stack](https://github.com/AniqSafr/JomServis)
 <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs" /> 
-**Description**: A website that can book a car service to come straight to home. It also can book a queue for car service. <br></br>
-**Tech Used**: MongoDB, ExpressJS, ReactJS, NodeJS
+Description: A website that can book a car service to come straight to home. It also can book a queue for car service. <br></br>
+Tech Used: MongoDB, ExpressJS, ReactJS, NodeJS
 
 ---
 
 ### [Project 2: Community and E-Commerce Mobile App for Farmers](https://github.com/aidilaqif/growhub)
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />  
-**Description**: A front end mobile app prototype for Varsity Hackathon 2024. <br></br>
-**Tech Used**: Flutter, Dart, Figma 
+Description: A front end mobile app prototype for Varsity Hackathon 2024. <br></br>
+Tech Used: Flutter, Dart, Figma 
 
 ---
 
