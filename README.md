@@ -9,6 +9,9 @@ I'm a passionate **Software Engineering student**, currently in my third year, w
 - 🎯 Passionate about **problem-solving**, **automation**, and **continuous learning**
 
 ## 🛠️ Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,darteclipse,express,figma,firebase,flutter,git,java,jquery,laravel,mongodb,mysql,nodejs,npm,php,postman,py,sass,vscode)](https://skillicons.dev)
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> Java  
