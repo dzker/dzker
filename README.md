@@ -1,3 +1,6 @@
+
+![photo_2023-08-03_15-35-44](https://github.com/user-attachments/assets/50a777a0-b6a2-4b63-a00d-689a44830f3b)
+
 # 👋 Hi there, I'm Harith Dzikri Bin Hashim!
 
 I'm a passionate **Software Engineering student**, currently in my final year, working to enhance my skills in software development, machine learning, and tech innovation. Welcome to my GitHub where I document my journey, share projects, and contribute to open-source!
