@@ -1,91 +1,127 @@
-
-
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-<!--   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> -->
-  <img src="https://img.shields.io/badge/Lives-Nilai%-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Harith Dzikri </h1>
-<!-- <h3 align="center">Machine Learning Engineer | Data Scientist </h3> -->
-<p align="center">
-<!-- <a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/harith-dzikri-4a5a30213/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<!-- <a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a> -->
-<!-- <a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a> -->
- <a href = "mailto: harithdzikri12@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-</p>
-
-
-
-<p align="center">
-  <em>
-    Hello, I am Harith Dzikri a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Putra Malaysia</b>, Malaysia</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;
-  </em> 
-<!--   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<br><br> -->
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ I’m currently Developing an automated path of drone<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
-
-
-
-
-
-
-
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px;
+        }
+        h1, h2, h3 {
+            color: #0366d6;
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .highlight {
+            background-color: #f0f8ff;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .tech-stack, .projects, .connect {
+            margin-top: 20px;
+        }
+        .tech-stack span {
+            display: inline-block;
+            background-color: #e1ecf4;
+            color: #0366d6;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+        .tech-stack img {
+            width: 30px;
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.8rem;
+            color: #555;
+        }
+        .connect a {
+            font-size: 18px;
+            margin-right: 15px;
+            color: #333;
+            text-decoration: none;
+        }
+        .connect a:hover {
+            color: #0366d6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>👋 Hi there, I'm Harith Dzikri Bin Hashim!</h1>
+        <p>
+            I'm a passionate <strong>Software Engineering student</strong>, currently in my third year, working to enhance my skills in software development, machine learning, and tech innovation. Welcome to my GitHub where I document my journey, share projects, and contribute to open-source!
+        </p>
+        <h2>🚀 About Me</h2>
+        <ul>
+            <li>🎓 Final Year Software Engineering student at <span class="highlight">Universiti Putra Malaysia</span></li>
+            <li>💻 Tech enthusiast with a love for building innovative solutions</li>
+            <li>🌱 Currently honing my skills in <strong>Machine Learning</strong>, <strong>Web Development</strong>, and <strong>Mobile Apps</strong></li>
+            <li>🎯 Passionate about <strong>problem-solving</strong>, <strong>automation</strong>, and <strong>continuous learning</strong></li>
+        </ul>
+        <div class="tech-stack">
+            <h3>🛠️ Tech Stack & Tools</h3>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"> Python</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"> JavaScript</span>
+<!--             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"> C++</span> -->
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"> Java</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"> React</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"> Node.js</span>
+<!--             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django"> Django</span> -->
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"> MySQL</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"> MongoDB</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"> Git</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"> Docker</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"> Postman</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"> VS Code</span>
+<!--             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"> TensorFlow</span>
+            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn"> Scikit-learn</span> -->
+        </div>
+<!--         <div class="projects">
+            <h3>🌟 Featured Projects</h3>
+            <ul>
+                <li><a href="https://github.com/HarithDzikri/Project1"><strong>Project 1</strong></a>: Brief description of the project. (Tech used: ...)</li>
+                <li><a href="https://github.com/HarithDzikri/Project2"><strong>Project 2</strong></a>: Brief description of the project. (Tech used: ...)</li>
+                <li><a href="https://github.com/HarithDzikri/Project3"><strong>Project 3</strong></a>: Brief description of the project. (Tech used: ...)</li>
+            </ul>
+        </div> -->
+        <div class="connect">
+            <h3>🌐 Let's Connect</h3>
+<!--             <a href="https://your-portfolio-link.com"><i class="fas fa-globe"></i> Portfolio</a> -->
+            <a href="https://www.linkedin.com/in/harith-dzikri-4a5a30213/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+<!--             <a href="https://twitter.com/YourHandle"><i class="fab fa-twitter"></i> Twitter</a> -->
+        </div>
+        <footer>
+            <p>Thank you for visiting! 🚀 Let's collaborate and build something amazing!</p>
+        </footer>
+    </div>
+</body>
+</html>
