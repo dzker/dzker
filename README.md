@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Profile</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Updated FontAwesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -91,34 +92,22 @@
             <h3>🛠️ Tech Stack & Tools</h3>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"> Python</span>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"> JavaScript</span>
-<!--             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"> C++</span> -->
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"> Java</span>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"> React</span>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"> Node.js</span>
-<!--             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django"> Django</span> -->
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"> MySQL</span>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"> MongoDB</span>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"> Git</span>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"> Docker</span>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"> Postman</span>
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"> VS Code</span>
-<!--             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"> TensorFlow</span>
-            <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn"> Scikit-learn</span> -->
         </div>
-<!--         <div class="projects">
-            <h3>🌟 Featured Projects</h3>
-            <ul>
-                <li><a href="https://github.com/HarithDzikri/Project1"><strong>Project 1</strong></a>: Brief description of the project. (Tech used: ...)</li>
-                <li><a href="https://github.com/HarithDzikri/Project2"><strong>Project 2</strong></a>: Brief description of the project. (Tech used: ...)</li>
-                <li><a href="https://github.com/HarithDzikri/Project3"><strong>Project 3</strong></a>: Brief description of the project. (Tech used: ...)</li>
-            </ul>
-        </div> -->
+
         <div class="connect">
             <h3>🌐 Let's Connect</h3>
-<!--             <a href="https://your-portfolio-link.com"><i class="fas fa-globe"></i> Portfolio</a> -->
             <a href="https://www.linkedin.com/in/harith-dzikri-4a5a30213/"><i class="fab fa-linkedin"></i> LinkedIn</a>
-<!--             <a href="https://twitter.com/YourHandle"><i class="fab fa-twitter"></i> Twitter</a> -->
         </div>
+
         <footer>
             <p>Thank you for visiting! 🚀 Let's collaborate and build something amazing!</p>
         </footer>
