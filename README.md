@@ -36,6 +36,13 @@ Tech Used: Flutter, Dart, Figma
 
 ---
 
+### [Project 3: CPS X-Series DragonFly 4.0](https://github.com/dzker/CPS-X-4.0_Frontend)
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,express,postgres" />  
+Description: A Final Year Project about Smart Item Tracking using DJI Tello Drone with AI Analysis Item Management. This project is a collaboration project between UPM and Prestige Atlantic Asia Sdn. Bhd. This project consist of one frontend and two backends (one for the REST API, AI Logic and for the Drone Logic, one The current repository is only the Frontend <br></br>
+Tech Used: Python, ReactJS, NodeJS, Express, PostgresSQL(NeonTech)
+
+---
+
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harith_Dzikri-blue?logo=linkedin)](https://www.linkedin.com/in/harith-dzikri-4a5a30213/)
 
