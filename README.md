@@ -2,10 +2,10 @@
 
 # 👋 Hi there, I'm Harith Dzikri Bin Hashim!
 
-I'm a passionate **Software Engineering student**, currently in my final year, working to enhance my skills in software development, machine learning, and tech innovation. Welcome to my GitHub where I document my journey, share projects, and contribute to open-source!
+I'm a passionate **Fresh Graduate Software Engineer**, Passionate to enhance my skills in software development, machine learning, and tech innovation. Welcome to my GitHub where I document my journe and share projects.
 
 ## 🚀 About Me
-- 🎓 Final Year Software Engineering student at **Universiti Putra Malaysia**
+- 🎓 Fresh Graduate Software Engineer at **Universiti Putra Malaysia**
 - 💻 Tech enthusiast with a love for building innovative solutions
 - 🌱 Currently honing my skills in **Machine Learning**, **Web Development**, and **Mobile Apps**
 - 🎯 Passionate about **problem-solving**, **automation**, and **continuous learning**
