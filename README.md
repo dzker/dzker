@@ -2,13 +2,31 @@
 
 # 👋 Hi there, I'm Harith Dzikri Bin Hashim!
 
-I'm a passionate **Fresh Graduate Software Engineer**, Passionate to enhance my skills in software development, machine learning, and tech innovation. Welcome to my GitHub where I document my journe and share projects.
+I am a Software Engineer with hands-on experience in backend development, currently working at TM R&D (Telekom Malaysia Research & Development). I specialize in building scalable backend systems using Java-based technologies and enjoy solving real-world problems through clean and efficient code.
+
+I am passionate about software development, machine learning, and tech innovation, and continuously strive to improve my skills through practical experience and personal projects.
 
 ## 🚀 About Me
 - 🎓 Fresh Graduate Software Engineer at **Universiti Putra Malaysia**
 - 💻 Tech enthusiast with a love for building innovative solutions
 - 🌱 Currently honing my skills in **Machine Learning**, **Web Development**, and **Mobile Apps**
 - 🎯 Passionate about **problem-solving**, **automation**, and **continuous learning**
+
+Backend Developer — TM R&D (Telekom Malaysia Research & Development)
+
+- Developed and maintained backend services using Java (Dropwizard framework)
+- Designed and implemented RESTful APIs for internal systems
+- Worked with databases such as Oracle for data management
+- Focused on performance optimization, clean architecture, and maintainable code
+- Collaborated with cross-functional teams in an enterprise environment
+
+Java Developer Intern — Arvato Systems Malaysia
+- Contributed to an enterprise HR management system to streamline employee data and workflows
+- Built backend services using Spring Boot and RESTful APIs
+- Developed frontend components using Angular and integrated with backend services
+- Designed and delivered end-to-end features (frontend, backend, database)
+- Improved system performance and refined business logic based on internal feedback
+- Worked with PostgreSQL for database operation
 
 
 ## 🛠️ Tech Stack & Tools
